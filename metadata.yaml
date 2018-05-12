@@ -1,0 +1,29 @@
+_repo: The-Picturesque-Antiquities-of-Spain--13-Described-in-a-series-of-letters-with-illustrations-__32821
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32821-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Wells, Nathaniel Armstrong
+    gutenberg_agent_id: '36067'
+    url: http://www.gutenberg.org/2009/agents/36067
+description: ''
+gutenberg_issued: '2010-06-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32821'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Architecture, Islamic'
+- !lcsh 'Spain -- Antiquities'
+- !lcsh 'Architecture -- Spain'
+- !lcc 'DP'
+- !lcsh 'Art, Islamic'
+title: "The Picturesque Antiquities of Spain\r\nDescribed in a series of letters,\
+  \ with illustrations representing Moorish palaces, cathedrals, and other monuments\
+  \ of art, contained in the cities of Burgos, Valladolid, Toledo, and Seville."
+url: http://www.gutenberg.org/ebooks/32821
